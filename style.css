@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,100;1,100&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,body {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(23, 23, 23);
+}
+.top {
+    display: flex;
+}
+
+#topa {
+    margin-left: 3rem;
+    margin-top: 2rem;
+}
+.nou {
+    text-decoration: none;
+}
+
+.arthere {
+    color: white;
+    font-family: Raleway;
+}
+
+#topb {
+    display: flex;
+    font-family: Libre Franklin;
+    margin-left: 22rem;
+    height: 95px;
+    width: 80%;
+    border: 3px solid white;
+}
+
+.art {
+    color: white;
+    padding-top: 2rem;
+    font-size: 30px;
+}
+
